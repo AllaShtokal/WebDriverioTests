@@ -1,2 +1,0 @@
-# WebDriverIO
-WwbDriverIO, JS
